@@ -56,7 +56,7 @@ These helper functions are called from the scripts above, and do not need to be 
 
 - `fix_matrix.R`. This function is called from `Set_up_precision_matrices.R` to ensure positive definiteness of the precision matrices.
 
-- `fix_matrix.m`. This is the Matlab version of `fix_matrix.R'.
+- `fix_matrix.m`. This is the Matlab version of `fix_matrix.R`.
 
 - `rMNorm.m`. This function is called from `Simulate_data.m` to sample draws from the multivariate normal distribution.
 
