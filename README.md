@@ -13,7 +13,7 @@ Christine B. Peterson (cbpeterson@mdanderson.org) and Nathan Osborne (no7@rice.e
 
 The following scripts can be run in the order given to reproduce the results for the comparison of methods in Section 5 (Simulation study). The working directory should be set to the top level directory within this project.
 
-- `Set_up_precision_matrices.m`. This script constructs and saves the precision matrix for each of the three graphs considered.
+- `Set_up_precision_matrices.R`. This script constructs and saves the precision matrix for each of the three graphs considered.
 
 - `Simulate_data.m`. Given the precision matrices for each group, this script generates and saves 25 simulated data sets.
 
@@ -54,7 +54,9 @@ Matlab code for running the MCMC sampling procedures for the proposed method, as
 
 These helper functions are called from the scripts above, and do not need to be run separately.
 
-- `fix_matrix.m`. This function is called from `Set_up_precision_matrices.m` to ensure positive definiteness of the precision matrices.
+- `fix_matrix.R`. This function is called from `Set_up_precision_matrices.R` to ensure positive definiteness of the precision matrices.
+
+- `fix_matrix.m`. This is the Matlab version of `fix_matrix.R'.
 
 - `rMNorm.m`. This function is called from `Simulate_data.m` to sample draws from the multivariate normal distribution.
 
