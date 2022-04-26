@@ -3,7 +3,7 @@ R and Matlab code to reproduce results in "Bayesian modeling of multiple structu
 connectivity networks during the progression of Alzheimer’s disease" by Christine B. Peterson, Nathan Osborne, Francesco C. Stingo, Pierrick Bourgeat, James D. Doecke and Marina Vannucci
 
 ### Authors
-Christine B. Peterson (cbpeterson@mdanderson.org) and Nathan Osborne (no7@rice.edu)
+Christine B. Peterson (cbpeterson@mdanderson.org) and Nathan Osborne
 
 ### File organization
 
