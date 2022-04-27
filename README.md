@@ -1,6 +1,7 @@
 ## Bayesian modeling of multiple related precision matrices
 R and Matlab code to reproduce results in "Bayesian modeling of multiple structural
-connectivity networks during the progression of Alzheimer’s disease" by Christine B. Peterson, Nathan Osborne, Francesco C. Stingo, Pierrick Bourgeat, James D. Doecke and Marina Vannucci
+connectivity networks during the progression of Alzheimer’s disease". Please cite the associated publication if you use this code:
+- Peterson CB, Osborne N, Stingo FC, Bourgeat P, Doecke J, Vannucci M. (2020) Bayesian modeling of multiple structural connectivity networks during the progression of Alzheimer's disease. *Biometrics*. 76(4): 1120-1132. [[pdf](https://odin.mdacc.tmc.edu/~cbpeterson/Peterson_Biometrics_2020.pdf)]
 
 ### Authors
 Christine B. Peterson (cbpeterson@mdanderson.org) and Nathan Osborne
